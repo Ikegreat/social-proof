@@ -11,6 +11,7 @@ body {
   font-optical-sizing: auto;
   font-style: normal;
 }
+
 .main-container {
     text-align: center;
     border: 1px solid white;
@@ -21,7 +22,6 @@ body {
     background: url(/images/bg-pattern-top-mobile.svg);
     background-size: 100%;
     background-repeat: no-repeat;
-
 }
 header {
     font-weight: 900;
@@ -64,10 +64,14 @@ header {
 .main-card {
     display: flex;
     align-items: center; 
-    gap: 20px;
+    gap: 30px;
 }
 .names {
     display: grid;
+    margin-bottom: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    
 }
 .review-text {
     color:  hsl(333, 80%, 67%);
@@ -75,8 +79,9 @@ header {
 .review-box {
     font-weight: 600;
     line-height: 20px;
+
 }
 .names {
-    font-weight: 700;
-    line-height: px;
-} 
+    /* font-weight: 700;
+    line-height:444 px; */
+}  
