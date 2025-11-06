@@ -61,3 +61,12 @@ header {
     width: 10%;
     display: ;
 }
+.main-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.review-text {
+    display: grid;
+    color: hsl(333, 80%, 67%);
+}
