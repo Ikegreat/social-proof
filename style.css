@@ -53,13 +53,13 @@ header {
     padding: 30px;
     margin-bottom: 20px;
     background-color: hsl(300, 43%, 22%);
-    border-radius: 5px;
+    border-radius: 9px;
     color: hsl(0, 0%, 100%);
 }
 .content-image {
     border-radius: 999px;
     width: 10%;
-    display: ;
+    
 }
 .main-card {
     display: flex;
@@ -69,4 +69,5 @@ header {
 .review-text {
     display: grid;
     color: hsl(333, 80%, 67%);
+    margin-bottom: 20px;
 }
