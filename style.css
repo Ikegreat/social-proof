@@ -71,3 +71,10 @@ header {
     color: hsl(333, 80%, 67%);
     margin-bottom: 20px;
 }
+.review-box {
+    font-weight: 600;
+    line-height: 20px;
+}
+.review-name {
+    font-weight: 700;
+}
