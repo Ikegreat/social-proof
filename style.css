@@ -58,24 +58,25 @@ header {
 }
 .content-image {
     border-radius: 999px;
-    width: 18%;
+    width:40px;
     
 }
 .main-card {
     display: flex;
-    align-items: center;
+    align-items: center; 
     gap: 20px;
 }
-.review-text {
+.names {
     display: grid;
-    color: hsl(333, 80%, 67%);
-    margin-bottom: 20px;
-    line-height: 26px;
+}
+.review-text {
+    color:  hsl(333, 80%, 67%);
 }
 .review-box {
     font-weight: 600;
     line-height: 20px;
 }
-.review-name {
+.names {
     font-weight: 700;
-}
+    line-height: px;
+} 
