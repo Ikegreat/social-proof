@@ -58,7 +58,7 @@ header {
 }
 .content-image {
     border-radius: 999px;
-    width: 10%;
+    width: 18%;
     
 }
 .main-card {
@@ -70,6 +70,7 @@ header {
     display: grid;
     color: hsl(333, 80%, 67%);
     margin-bottom: 20px;
+    line-height: 26px;
 }
 .review-box {
     font-weight: 600;
