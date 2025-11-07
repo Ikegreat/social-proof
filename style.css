@@ -86,3 +86,10 @@ header {
     /* font-weight: 700;
     line-height:444 px; */
 }  
+@media(min-width:768px) {
+   .first-box {
+    display: grid;
+    grid-template-columns: auto auto ;
+   }
+  
+}
